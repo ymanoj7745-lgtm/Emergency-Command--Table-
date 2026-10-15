@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="docs/screenshot.jng" width="85%" alt="Emergency Command Table Screenshot" />
+  <img src="docs/screenshot.jpg" width="85%" alt="Emergency Command Table Screenshot" />
 </p>
 
 <div align="center">
