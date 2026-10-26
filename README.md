@@ -12,7 +12,7 @@
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Hands-0097A7?style=for-the-badge&logo=google&logoColor=white)](https://mediapipe.dev)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[**▶ Watch the 60-second demo**](https://youtube.com/watch?v=YOUR_VIDEO_ID) · [**⚡ Quick Start**](#-quick-start)
+[![LinkedIn](https://img.shields.io/badge/Watch_the_Demo-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://lnkd.in/p/dpkrpRsh) · [**⚡ Quick Start**](#-quick-start)
 
 </div>
 
